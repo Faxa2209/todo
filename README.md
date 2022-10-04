@@ -1,2 +1,5 @@
-#ToDo App
-ReactJS
+
+# First Project: TodoApp :wave:
+
+- ReactJS (useState,useEffect,LocalStorage)
+- SCSS
